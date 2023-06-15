@@ -1,4 +1,4 @@
-# Orangewood_Task: Edge AI Development: Implement a Pre-trained Model.ipynb [Cat and Dog Image Classification with TensorFlow]
+# Orangewood_Task: Edge AI Development: Implement a Pre-trained Model [Cat and Dog Image Classification with TensorFlow]
 
 This project trains a deep learning model to classify images of cats and dogs using TensorFlow. The code uses the MobileNetV2 architecture for transfer learning and fine-tuning.
 
